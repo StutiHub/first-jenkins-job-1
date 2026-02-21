@@ -1,0 +1,9 @@
+{
+"editor.fontSize": 24,
+"editor.tabSize": 2,
+"terminal.integrated.fontSize": 20,
+"editor.wordWrap": "on",
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+
+}
